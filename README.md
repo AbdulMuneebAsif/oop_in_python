@@ -554,10 +554,3 @@ library.list_available_books()
 *   Practice implementing the four pillars in your own projects.
 *   Explore design patterns (e.g., Factory, Singleton) that leverage OOP principles.
 *   Deep dive into Python's Dunder methods for custom object behavior.
-
-## Slide 23: Q&A and Thank You
-
-**Title:** Thank You
-**Contact:** [Your Contact Information]
-**ImImage Description: A professional, clean graphic of the Python logo with a "Thank You" message.
-**Visual Aid Path:** /home/ubuntu/upload/search_images/3mxgj99KnUDt.jpeg
